@@ -21,10 +21,3 @@ Formulário de criação/cadastro de usuário utilizando React com validação d
 
 ---
 
-## Como executar
-
-1. Clone este repositório:
-
-```bash
-git clone <url-do-repositorio>
-cd <nome-do-repositorio>
